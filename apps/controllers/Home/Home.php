@@ -10,6 +10,7 @@ class Home extends Controller
 
     function index()
     {
+
         return phpinfo();
     }
 }
