@@ -1,6 +1,6 @@
 
 # apiswooleframwork
-##apiswooleframework是根据swooleframework改造而来，目的就是让swooleframework使用起来更简单哈
+##apiswooleframework是根据swooleframework改造用来专门针对api接口开发的框架，目的就是让swooleframework使用起来更简单哈
 ###配置ip和端口
 ```
 在examples/swoole.ini的server配置项
