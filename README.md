@@ -47,3 +47,6 @@
 和swoole一样在apps/configs/db.php配置，然后就可以使用table()使用查询了。
 一些基础的数据库操作和mongo的操作在apps/controllers/Home/Test.php里已经写了示例，后续会增加一些方便的where条件支持
 ```
+
+
+
